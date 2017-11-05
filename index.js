@@ -4,3 +4,4 @@ function theBeatlesPlay (array, instruments) {
     beatlesArr.push(`${musicians[i]} plays ${instruments[i]}`)
   };
   return beatlesArr;
+};
